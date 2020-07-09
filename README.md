@@ -4,14 +4,7 @@ Welcome to my github profile. I am a software developer with more than 20 years 
 
 For the past couple of years I've been teaching an accredited web development bootcamp in Brisbane, Australia and I love it! If you are interested, check out what we do at <a class="link" href="https://coderacademy.edu.au/" target="_blank">Coder Academy</a>.
 
-My current role has introduced me to the wonderful world of web development and these technologies:
-<div class="centered-box">
-<img class="devicon-icon" style="max-width: 6em;" src="js.svg" alt="javascript icon" />
-<img class="devicon-icon" style="max-width: 6em;" src="nodejs.svg" alt="nodejs icon" />
-<img class="devicon-icon" style="max-width: 6em;" src="react.svg" alt="react icon" />
-<img class="devicon-icon" style="max-width: 6em;" src="rails.svg" alt="rails icon" />
-</div>
-So much fun!
+My current role has introduced me to the wonderful world of web development. So much fun!
 
 I've also been introduced to an incredible community of people through Twitter. You can find me on Twitter <a href="https://twitter.com/janelbrandon12" target="_blank">@janelbrandon12</a>.
 
@@ -20,9 +13,8 @@ I use this repository to play, and to create things that help me and others to l
 ## Projects
 
 Some of the things I've built are highlighted here:
-<div class="centered-box">
-<img class="devicon-icon" style="max-width: 6em;" src="python.svg" alt="python icon" />
-</div>
+
+### Python
 <a class="project-link" href="https://github.com/janel-developer/twitter-consciousness-bot">Twitter consciousness bot</a>
 
 A simple bot that tweets inspirational quotes
@@ -35,18 +27,13 @@ Greets new followers (10 at a time), and adds friends
 
 Gets your current followers count, and updates a database table with the information
 
-
-<div class="centered-box">
-<img class="devicon-icon" style="max-width: 6em;" src="react.svg" alt="react icon" />
-</div>
+### React
 
 <a class="project-link" href="https://github.com/janel-developer/sets-game">Sets Game</a>
 
 React implementation of the sets card game
 
-<div class="centered-box">
-<img class="devicon-icon" style="max-width: 6em;" src="nodejs.svg" alt="nodejs icon" />
-</div>
+### Node
 
 <a class="project-link" href="https://github.com/janel-developer/node-web-server">Node Http Server</a>
 
