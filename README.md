@@ -10,10 +10,10 @@ For the past couple of years I've been teaching an accredited web development bo
 
 My current role has introduced me to the wonderful world of web development and these technologies:
 <div class="centered-box">
-<img class="devicon-icon" src="images/js.svg" alt="javascript icon" />
-<img class="devicon-icon" src="images/nodejs.svg" alt="nodejs icon" />
-<img class="devicon-icon" src="images/react.svg" alt="react icon" />
-<img class="devicon-icon" src="images/rails.svg" alt="rails icon" />
+<img class="devicon-icon" src="js.svg" alt="javascript icon" />
+<img class="devicon-icon" src="nodejs.svg" alt="nodejs icon" />
+<img class="devicon-icon" src="react.svg" alt="react icon" />
+<img class="devicon-icon" src="rails.svg" alt="rails icon" />
 </div>
 So much fun!
 
@@ -25,7 +25,7 @@ I use this repository to play, and to create things that help me and others to l
 
 Some of the things I've built are highlighted here:
 <div class="centered-box">
-<img class="devicon-icon" src="images/python.svg" alt="python icon" />
+<img class="devicon-icon" src="python.svg" alt="python icon" />
 </div>
 <a class="project-link" href="https://github.com/janel-developer/twitter-consciousness-bot">Twitter consciousness bot</a>
 
@@ -41,7 +41,7 @@ Gets your current followers count, and updates a database table with the informa
 
 
 <div class="centered-box">
-<img class="devicon-icon" src="images/react.svg" alt="react icon" />
+<img class="devicon-icon" src="react.svg" alt="react icon" />
 </div>
 
 <a class="project-link" href="https://github.com/janel-developer/sets-game">Sets Game</a>
@@ -49,7 +49,7 @@ Gets your current followers count, and updates a database table with the informa
 React implementation of the sets card game
 
 <div class="centered-box">
-<img class="devicon-icon" src="images/nodejs.svg" alt="nodejs icon" />
+<img class="devicon-icon" src="nodejs.svg" alt="nodejs icon" />
 </div>
 
 <a class="project-link" href="https://github.com/janel-developer/node-web-server">Node Http Server</a>
