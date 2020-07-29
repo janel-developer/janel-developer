@@ -2,7 +2,7 @@
 
 Welcome to my github profile. I am a software developer with more than 20 years experience, most of which I owe to IBM where I was an AIX developer.
 
-For the past couple of years I've been teaching an accredited web development bootcamp in Brisbane, Australia and I love it! If you are interested, check out what we do at <a class="link" href="https://coderacademy.edu.au/" target="_blank">Coder Academy</a>.
+For the past couple of years I've been teaching an accredited web development bootcamp in Brisbane, Australia and I love it! If you are interested, check out what we do at <a href="https://coderacademy.edu.au/" target="_blank">Coder Academy</a>.
 
 My current role has introduced me to the wonderful world of web development. So much fun!
 
@@ -15,26 +15,26 @@ I use this repository to play, and to create things that help me and others to l
 Some of the things I've built are highlighted here:
 
 ### Python
-<a class="project-link" href="https://github.com/janel-developer/twitter-consciousness-bot">Twitter consciousness bot</a>
+<a href="https://github.com/janel-developer/twitter-consciousness-bot">Twitter consciousness bot</a>
 
 A simple bot that tweets inspirational quotes
 
-<a class="project-link" href="https://github.com/janel-developer/twitter-friendly-bot">Twitter friendly bot</a>
+<a href="https://github.com/janel-developer/twitter-friendly-bot">Twitter friendly bot</a>
 
 Greets new followers (10 at a time), and adds friends
 
-<a class="project-link" href="https://github.com/janel-developer/twitter-followers-bot">Twitter followers bot</a>
+<a href="https://github.com/janel-developer/twitter-followers-bot">Twitter followers bot</a>
 
 Gets your current followers count, and updates a database table with the information
 
 ### React
 
-<a class="project-link" href="https://github.com/janel-developer/sets-game">Sets Game</a>
+<a href="https://github.com/janel-developer/sets-game">Sets Game</a>
 
 React implementation of the sets card game
 
 ### Node
 
-<a class="project-link" href="https://github.com/janel-developer/node-web-server">Node Http Server</a>
+<a href="https://github.com/janel-developer/node-web-server">Node Http Server</a>
 
 Node implementation of http server (goes with <a href="https://www.youtube.com/playlist?list=PLjJnSS_3pkuzPr8NpCCnzVGHl_4m3JWbR">youtube video playlist here</a>)
