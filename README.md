@@ -2,9 +2,7 @@
 
 Welcome to my github profile. I am a software developer with more than 20 years experience, most of which I owe to IBM where I was an AIX developer.
 
-For the past couple of years I've been teaching an accredited web development bootcamp in Brisbane, Australia and I love it! If you are interested, check out what we do at <a href="https://coderacademy.edu.au/" target="_blank">Coder Academy</a>.
-
-My current role has introduced me to the wonderful world of web development. So much fun!
+I'm currently a developer at Clipchamp, and I'm having a blast with my team there, enabling everyone to tell their stories with video.
 
 I've also been introduced to an incredible community of people through Twitter. You can find me on Twitter <a href="https://twitter.com/janelbrandon12" target="_blank">@janelbrandon12</a>.
 
